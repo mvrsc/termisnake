@@ -1,0 +1,16 @@
+Qualche idea per chi si imbattesse in questo progetto e volesse lavorarci:
+FACILE:
+-Aggiungere un tasto pausa
+-Aggiungere la possibilità di ricominciare il gioco dopo che si è perso.
+
+MEDIO:
+-Aggiungere la possibilità di impostare la velocità del serpente a inizio partita
+
+DIFFICILE:
+-Fare un benchmark fra i due algoritmi di movimento o scriverne un terzo
+-Aggiungere delle "mappe" da selezionare con degli ostacoli fissi da evitare.
+
+MOLTO DIFFICILE:
+-Migliorare la rappresentazione del serpente in modo da visualizzare anche le "curve"
+-Realizzare degli ostacoli che si muovono
+-Realizzare una IA in modo che il serpente si muova e vinca da solo. 
